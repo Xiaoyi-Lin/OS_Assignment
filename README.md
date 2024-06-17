@@ -1,4 +1,4 @@
-### LAB PROJECTS
+# LAB PROJECTS
 
 ## C Programming
 ## CPU Scheduling
